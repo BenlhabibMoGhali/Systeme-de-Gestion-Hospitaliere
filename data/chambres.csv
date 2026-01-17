@@ -1,0 +1,4 @@
+numero,type,nbLits,enNettoyage
+101,STANDARD,2,true
+201,VIP,1,true
+301,SOINS_INTENSIFS,1,false
